@@ -1,0 +1,18 @@
+c:\users\elif\documents\visual studio 2015\Projects\arff_olusturucu\arff_olusturucu\bin\Debug\arff_olusturucu.exe.config
+c:\users\elif\documents\visual studio 2015\Projects\arff_olusturucu\arff_olusturucu\bin\Debug\arff_olusturucu.exe
+c:\users\elif\documents\visual studio 2015\Projects\arff_olusturucu\arff_olusturucu\bin\Debug\arff_olusturucu.pdb
+c:\users\elif\documents\visual studio 2015\Projects\arff_olusturucu\arff_olusturucu\obj\Debug\arff_olusturucu.Form1.resources
+c:\users\elif\documents\visual studio 2015\Projects\arff_olusturucu\arff_olusturucu\obj\Debug\arff_olusturucu.Properties.Resources.resources
+c:\users\elif\documents\visual studio 2015\Projects\arff_olusturucu\arff_olusturucu\obj\Debug\arff_olusturucu.csproj.GenerateResource.Cache
+c:\users\elif\documents\visual studio 2015\Projects\arff_olusturucu\arff_olusturucu\obj\Debug\arff_olusturucu.exe
+c:\users\elif\documents\visual studio 2015\Projects\arff_olusturucu\arff_olusturucu\obj\Debug\arff_olusturucu.pdb
+C:\Users\Elif\documents\visual studio 2015\Projects\arff_olusturucu\arff_olusturucu\obj\Debug\arff_olusturucu.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\DERS\PROJE II\arff_olusturucuson\arff_olusturucu\arff_olusturucu\bin\Debug\arff_olusturucu.exe.config
+C:\Users\Samsung\Desktop\DERS\PROJE II\arff_olusturucuson\arff_olusturucu\arff_olusturucu\obj\Debug\arff_olusturucu.exe
+C:\Users\Samsung\Desktop\DERS\PROJE II\arff_olusturucuson\arff_olusturucu\arff_olusturucu\obj\Debug\arff_olusturucu.pdb
+C:\Users\Samsung\Desktop\DERS\PROJE II\arff_olusturucuson\arff_olusturucu\arff_olusturucu\bin\Debug\arff_olusturucu.exe
+C:\Users\Samsung\Desktop\DERS\PROJE II\arff_olusturucuson\arff_olusturucu\arff_olusturucu\bin\Debug\arff_olusturucu.pdb
+C:\Users\Samsung\Desktop\DERS\PROJE II\arff_olusturucuson\arff_olusturucu\arff_olusturucu\obj\Debug\arff_olusturucu.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\DERS\PROJE II\arff_olusturucuson\arff_olusturucu\arff_olusturucu\obj\Debug\arff_olusturucu.Form1.resources
+C:\Users\Samsung\Desktop\DERS\PROJE II\arff_olusturucuson\arff_olusturucu\arff_olusturucu\obj\Debug\arff_olusturucu.Properties.Resources.resources
+C:\Users\Samsung\Desktop\DERS\PROJE II\arff_olusturucuson\arff_olusturucu\arff_olusturucu\obj\Debug\arff_olusturucu.csproj.GenerateResource.Cache
