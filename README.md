@@ -1,2 +1,2 @@
 # Arff-Olusturucu
-Düz metni tanımlanan özelliklere(attribute) göre arff dosyasına çevirir.
+Veri madenciliğinin temeli arff uzantılı dosyalara dayanır. Biz de kendi bitirme projemiz için bir arff dönüştürüye ihtiyaç duyduk. Bu program düz metni tanımlanan özelliklere(attribute) göre arff dosyasına çevirir. İlk önce arff dosyanızda yer almasını istediğiniz attribute'ları belirleyip bir listeye atarsınız daha sonra programı çalıştırıp istediğiniz herhangi bir metnin içinde sizin belirlediğiniz attribute'ların olup olmadığını cümle bazlı aratabilirsiniz. Program sizin verdiğiniz metni noktaya göre cümlelere ayırır ve her cümlenin içinde listedeki kelimeleri tek tek arar ve arff dosyanız hazır olmuş olur.
